@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/AdminAddDetailProduct.java=UTF-8
+encoding//src/main/java/controller/HomeCartServlet.java=UTF-8
+encoding//src/main/java/controller/HomeUserProfileServlet.java=UTF-8
+encoding//src/main/java/controller/UsersLoginServlet.java=UTF-8
+encoding//src/main/java/controller/UsersRegisterServlet.java=UTF-8
+encoding//src/main/java/dao/CartDAO.java=UTF-8
+encoding//src/main/webapp/login.jsp=UTF-8
